@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "157797724153",
+    "firebase_url": "https://fir-logandreg-26a43.firebaseio.com",
+    "project_id": "fir-logandreg-26a43",
+    "storage_bucket": "fir-logandreg-26a43.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:157797724153:android:78dbe948f7a6be544dd728",
+        "android_client_info": {
+          "package_name": "com.example.firebaselogandreg"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "157797724153-vq7ntkiub0svcm3bj29mdg46hsinbi5v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWRXQoAcj_ksUqJhYW2TMGPglOfNpzhgY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "157797724153-vq7ntkiub0svcm3bj29mdg46hsinbi5v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
